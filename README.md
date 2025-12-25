@@ -189,6 +189,6 @@ Fork, improve, and contribute!
 Open an **issue** or submit a **pull request** — every bit helps.
 
 🔗 **Connect with me on LinkedIn**  
-[Rakesh Kumar Parida](https://www.linkedin.com/in/rakesh-kumar-parida-523b55308/)
+[Jonathan Kunfiri](https://www.linkedin.com/in/jonathan-kunfiri)
 
 ⭐ **If you like this project, give it a star!**
